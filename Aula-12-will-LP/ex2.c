@@ -6,7 +6,7 @@ int main(){
 
     int opt;
     printf("---Cantina---\n");
-    printf("Digite o código do que deseja:\n1|Coxinha \n2|Pastel \n3|P�o de queijo\n");
+    printf("Digite o código do que deseja:\n1|Coxinha \n2|Pastel \n3|Pão de queijo\n");
     scanf("%d", &opt);
     switch (opt){
         case 1:
